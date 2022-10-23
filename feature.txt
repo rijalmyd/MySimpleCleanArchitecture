@@ -1,0 +1,4 @@
+Ini rencana fitur :
+- Menambah fitur pencarian
+- Menambah fitur lokasi sekitar
+- Membuat splash screen
